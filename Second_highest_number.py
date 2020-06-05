@@ -10,4 +10,4 @@ for i in range(2,len(lst)):
     else:
         if secmax == mx:
             secmax = lst[i]
-print("Second highest number is ",secmax)            
+print("Second highest number is ",secmax)     #80         
