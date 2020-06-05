@@ -7,4 +7,4 @@ def sumOfList(lst,size):
         return lst[size-1]+sumOfList(lst,size-1)
 
 sum = sumOfList(lst,len(lst))
-print("Sum of all elements in given list is",sum)
+print("Sum of all elements in given list is",sum)      #33
